@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.7",
+  "appInfo": {
+    "name": "Wishlist",
+    "description": "An app to share your wishlists with your friends.",
+    "version": "kagvbw0t",
+    "id": "cl3nu5g1612785201kbzyzqbzri",
+    "url": "https://server.amplication.com/cl3nu5g1612785201kbzyzqbzri",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "WishlistApp",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl3nu5g1612785201kbzyzqbzri",
+      "authProvider": "Jwt"
+    }
+  }
+}
